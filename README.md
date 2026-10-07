@@ -23,11 +23,4 @@ performs simple banner detection, and generates a vulnerability report.
 - Socket Programming
 - Basic Network Security Concepts
 
-## 📂 Project Structure
 
-```text
-Vulnerability-Scanner/
-│
-├── scanner.py
-├── vulnerability_report.txt
-└── README.md
